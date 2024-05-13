@@ -127,6 +127,7 @@ img {
   padding-block: 12px;
   padding-inline: 38px;
   text-decoration-line: none;
+  display: inline-block;
 }
 
 .hero {
@@ -143,7 +144,6 @@ img {
   list-style: none;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding-block: 70px;
 }
 
